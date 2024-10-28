@@ -1,9 +1,9 @@
-namespace KonsolowaTest
+namespace konsolowa
 {
     public class KonsolowaTests
     {
         [Fact]
-        public void Test1()
+        public void GivenFilePath_WhenGetMusicAlbums_ReturnListOfAlbums()
         {
 
         }
